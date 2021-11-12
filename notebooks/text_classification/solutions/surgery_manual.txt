@@ -1,4 +1,4 @@
-The Project Gutenberg eBook, A Manual of the Operations of Surgery, by
+﻿The Project Gutenberg eBook, A Manual of the Operations of Surgery, by
 Joseph Bell
 
 
@@ -30,16 +30,16 @@ SURGERY***
 
 E-text prepared by Michael Ciesielski, Pilar Somoza Fernández, and the
 Project Gutenberg Online Distributed Proofreading Team
-(http://www.pgdp.net)
+(https://www.pgdp.net)
 
 
 
 Note: Project Gutenberg also has an HTML version of this
       file which includes the original illustrations.
       See 24564-h.htm or 24564-h.zip:
-      (http://www.gutenberg.net/dirs/2/4/5/6/24564/24564-h/24564-h.htm)
+      (https://www.gutenberg.org/dirs/2/4/5/6/24564/24564-h/24564-h.htm)
       or
-      (http://www.gutenberg.net/dirs/2/4/5/6/24564/24564-h.zip)
+      (https://www.gutenberg.org/dirs/2/4/5/6/24564/24564-h.zip)
 
 
 Transcriber's note:
@@ -11759,7 +11759,7 @@ SURGERY***
 
 
 This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/2/4/5/6/24564
+https://www.gutenberg.org/dirs/2/4/5/6/24564
 
 
 
@@ -11795,7 +11795,7 @@ distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
-http://www.gutenberg.org/license).
+https://www.gutenberg.org/license).
 
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
@@ -12027,7 +12027,7 @@ Gutenberg Literary Archive Foundation was created to provide a secure
 and permanent future for Project Gutenberg-tm and future generations.
 To learn more about the Project Gutenberg Literary Archive Foundation
 and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
+and the Foundation web page at https://www.gutenberg.org/fundraising/pglaf.
 
 
 Section 3.  Information about the Project Gutenberg Literary Archive
@@ -12047,7 +12047,7 @@ throughout numerous locations.  Its business office is located at
 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
 business@pglaf.org.  Email contact links and up to date contact
 information can be found at the Foundation's web site and official
-page at http://www.gutenberg.org/about/contact
+page at https://www.gutenberg.org/about/contact
 
 For additional contact information:
      Dr. Gregory B. Newby
@@ -12072,7 +12072,7 @@ considerable effort, much paperwork and many fees to meet and keep up
 with these requirements.  We do not solicit donations in locations
 where we have not received written confirmation of compliance.  To
 SEND DONATIONS or determine the status of compliance for any
-particular state visit http://www.gutenberg.org/fundraising/donate
+particular state visit https://www.gutenberg.org/fundraising/donate
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
@@ -12087,13 +12087,13 @@ Please check the Project Gutenberg Web pages for current donation
 methods and addresses.  Donations are accepted in a number of other
 ways including checks, online payments and credit card donations.
 To donate, please visit:
-http://www.gutenberg.org/fundraising/donate
+https://www.gutenberg.org/fundraising/donate
 
 
 Section 5.  General Information About Project Gutenberg-tm electronic
 works.
 
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
 with anyone.  For thirty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
@@ -12105,7 +12105,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
+     https://www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
